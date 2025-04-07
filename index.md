@@ -3,7 +3,11 @@ layout: default
 title: Shahadat Hossain Portfolio
 ---
 
-# 👋 Hi, I'm Shahadat Hossain
+<div style="text-align:center;">
+  <img src="profile.jpg" width="150" style="border-radius:50%;">
+  <h2>Hi, I'm Shahadat 👋</h2>
+</div>
+
 
 🎓 Master's Student in Informatics | 🛠️ Junior System Administrator  
 📍 Bragança, Portugal | 📧 shahadatdps@gmail.com
