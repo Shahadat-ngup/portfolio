@@ -32,7 +32,7 @@ Currently pursuing an **MSc in Informatics** at Instituto Politécnico de Bragan
 
 **MSc in Informatics**  
 Instituto Politécnico de Bragança  
-📌 Bragança, Portugal | Graduation: 2025  
+📌 Bragança, Portugal | Graduation: 2025 - Present
 
 **Bachelor’s in Computer Engineering**  
 Instituto Politécnico de Bragança  
