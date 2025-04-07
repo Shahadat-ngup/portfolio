@@ -4,7 +4,7 @@ title: Shahadat Hossain's Portfolio
 ---
 
 <div style="text-align:center;">
-  <img src="https://drive.google.com/uc?export=view&id=1soSRh00L0IvCdPjVcqGQiuwp0RWKuGnN" width="150" style="border-radius:50%;">
+  <img src="LinkedINprofilePic.jpeg" width="150" style="border-radius:50%;">
   <h2>Hi, I'm Shahadat 👋</h2>
 </div>
 
