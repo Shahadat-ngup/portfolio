@@ -4,8 +4,7 @@ title: Shahadat Hossain's Portfolio
 ---
 
 <div style="text-align:center;">
-  <img src="https://raw.githubusercontent.com/Shahadat-ngup
-portfolio/LinkedINprofilePic.jpeg" width="150" style="border-radius:50%;">
+  <img src="LinkedINprofilePic.jpeg" width="150" style="border-radius:50%;">
   <h2>Hi, I'm Shahadat 👋</h2>
 </div>
 
