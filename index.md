@@ -7,51 +7,83 @@ title: Shahadat Hossain's Portfolio
   <h2>Hi, I'm Shahadat 👋</h2>
 </div>
 
+## DevOps Engineer  
 
-🎓 Master's Student in Informatics | 🛠️ Junior System Administrator  
-📍 Bragança, Portugal | 📧 shahadatdps@gmail.com
-
----
-
-## 🚀 About Me
-
-I’m a systems and network enthusiast with strong skills in Linux, Windows, pfSense, Docker, and cloud infrastructure. Currently pursuing a Master’s in Informatics and working as a Research Assistant, I’m passionate about building robust and secure IT environments.
+📍 **Braganca, Portugal** | ✉️ shahadatdps@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/shahadat-h-8748119b) | 🔗 [GitHub](https://github.com/shahadat-ngup)  
 
 ---
 
-## 💼 Experience
-
-**Research Assistant – Instituto Politécnico de Bragança**  
-*Jan 2025 – Present*  
-Worked on identity/authentication systems using OpenLDAP, Keycloak, Shibboleth, and MFA. Developed and documented integration strategies.
-
-**Software Engineer Intern – GoContact**  
-*Jul 2023 – Sep 2023*  
-Worked with dev teams on bug resolution, GitHub workflows, and software stability using Bugsnag.
+### PROFILE  
+AWS Certified DevOps Engineer specializing in cloud infrastructure (AWS, Terraform), CI/CD pipelines, and cybersecurity. Successfully automated deployments, secured networks (OPNsense, Wazuh SIEM), and mentored teams. MSc candidate in Informatics with research in IAM/MFA systems.  
 
 ---
 
-## 🎓 Education
-
-**MSc in Informatics – IPB, Portugal**  
-**BSc in Computer Engineering – IPB, Portugal**  
-- Systems and Network Management: 20/20  
-- Computer Networks II: 18/20  
-
----
-
-## 🧠 Skills
-
-- **Tech**: Linux, Windows, Active Directory, Postfix, Docker, Terraform, Ansible, AWS  
-- **Programming**: Python, C, C++, Java, JavaScript, Kotlin, Dart
+### CERTIFICATES  
+- AWS Certified Cloud Practitioner  
+- CCNAv7: Introduction to Networks 
+- CCNAv7: Switching, Routing, and Wireless Essentials 
+- CCNAv7: Enterprise Networking, Security, and Automation 
 
 ---
 
-## 📫 Contact
+### EDUCATION  
+**MSc in Informatics**  
+Instituto Politécnico de Bragança | 2024–Present  
 
-- 📧 shahadatdps@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shahadat-h-8748119b)  
-- 🗃️ [My CV (Google Drive)](https://drive.google.com/file/d/1-3U21aTYeCYSE2JOkklL00TUkcYJ7I0q/view?usp=sharing)
+**BSc in Computer Engineering**  
+Instituto Politécnico de Bragança | 2018–2024  
+
+---
+
+### PROFESSIONAL EXPERIENCE  
+**Research Assistant**  
+*Instituto Politécnico de Bragança (IPB)* | Jan 2025–Present  
+- Deployed centralized authentication (OpenLDAP/Keycloak), reducing login issues by 30%.  
+- Automated MFA setup (TOTP, Passkeys) using Ansible, boosting security compliance by 40%.  
+- Documented infrastructure changes, slashing onboarding time by 25%.  
+
+**Software Engineer Intern**  
+*GoContact* | Jul 2023–Sep 2023  
+- Debugged and resolved 10+ critical bugs via Bugsnag, improving system stability by 20%.  
+- Created video tutorials adopted by 10+ team members, streamlining bug replication.  
+
+**Freelance Programming Tutor** | 2024  
+- Tutored 25+ students in Python/JS; 90% achieved project milestones ahead of deadlines.  
+
+---
+
+### PROJECTS  
+**DevOps AutoStack: Secure WebApp on AWS**  
+[[Code]](https://gitlab.com/shahadatdps/awsdevopsproject)  
+- Automated AWS infra (VPC/EC2) with Terraform, cutting setup time by 70%.  
+- Achieved 100% HTTPS compliance via Let’s Encrypt (Ansible).  
+
+**Network Security with OPNsense & Wazuh**  
+[[Report]](https://drive.google.com/file/d/18gi65-2Ld7hUH-ve7taSpbRTVT3YydT0/view?usp=sharing)  
+- Reduced false positives by 50% through Wazuh ruleset optimization.  
+
+**Simulated Security Audit**  
+[[Report]](https://drive.google.com/file/d/1Y-3p3EQoeQUe9n21IBCGTVCpQ1-bAE80/view?usp=sharing)  
+- Identified 35+ vulnerabilities using Nmap/Metasploit, enabling proactive patching.  
+
+---
+
+### TECHNICAL SKILLS  
+![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FIAM-orange)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)  
+
+- **Cloud/DevOps**: AWS (EC2, S3, IAM), Terraform, Docker, Kubernetes, GitLab CI/CD  
+- **Security**: Wazuh SIEM, IDS/IPS, Nmap, MFA (Keycloak)  
+- **Languages**: Python, Bash, JavaScript  
+
+---
+
+> 🚧 *This portfolio is under active development. Stay tuned for more updates and detailed project writeups!*
+
+
 
 ---
 
