@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shahadat Hossain 
 ## DevOps Engineer  
 
-📍 **Braganca, Portugal** | ✉️ shahadatdps@gmail.com | 📞 (+351) 913981882  
+📍 **Braganca, Portugal** | ✉️ shahadatdps@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/shahadat-h-8748119b) | 🔗 [GitHub](https://github.com/shahadat-ngup)  
 
 ---
