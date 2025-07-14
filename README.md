@@ -67,7 +67,7 @@ Graduated: 2024
 
 
 #####################################################
-# Shahadat Hossain  
+# 👋 Hi, I'm Shahadat Hossain 
 ## DevOps Engineer  
 
 📍 **Braganca, Portugal** | ✉️ shahadatdps@gmail.com | 📞 (+351) 913981882  
@@ -81,10 +81,10 @@ AWS Certified DevOps Engineer specializing in cloud infrastructure (AWS, Terrafo
 ---
 
 ### CERTIFICATES  
-- AWS Certified Cloud Practitioner 💬  
-- CCNAv7: Introduction to Networks 💬  
-- CCNAv7: Switching, Routing, and Wireless Essentials 💬  
-- CCNAv7: Enterprise Networking, Security, and Automation 💬  
+- AWS Certified Cloud Practitioner  
+- CCNAv7: Introduction to Networks 
+- CCNAv7: Switching, Routing, and Wireless Essentials 
+- CCNAv7: Enterprise Networking, Security, and Automation 
 
 ---
 
@@ -116,16 +116,16 @@ Instituto Politécnico de Bragança | 2018–2024
 
 ### PROJECTS  
 **DevOps AutoStack: Secure WebApp on AWS**  
-[[Code]](https://github.com/shahadat-ngup/DevOps-AutoStack)  
+[[Code]](https://gitlab.com/shahadatdps/awsdevopsproject)  
 - Automated AWS infra (VPC/EC2) with Terraform, cutting setup time by 70%.  
 - Achieved 100% HTTPS compliance via Let’s Encrypt (Ansible).  
 
 **Network Security with OPNsense & Wazuh**  
-[[Code]](https://github.com/shahadat-ngup/OPNsense-SIEM)  
+[[Code]](https://drive.google.com/file/d/18gi65-2Ld7hUH-ve7taSpbRTVT3YydT0/view?usp=sharing)  
 - Reduced false positives by 50% through Wazuh ruleset optimization.  
 
 **Simulated Security Audit**  
-[[Code]](https://github.com/shahadat-ngup/Security-Audit)  
+[[Code]](https://drive.google.com/file/d/1Y-3p3EQoeQUe9n21IBCGTVCpQ1-bAE80/view?usp=sharing)  
 - Identified 35+ vulnerabilities using Nmap/Metasploit, enabling proactive patching.  
 
 ---
