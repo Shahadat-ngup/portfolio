@@ -52,11 +52,11 @@ Instituto Politécnico de Bragança | 2018–2024
 - Achieved 100% HTTPS compliance via Let’s Encrypt (Ansible).  
 
 **Network Security with OPNsense & Wazuh**  
-[[Code]](https://drive.google.com/file/d/18gi65-2Ld7hUH-ve7taSpbRTVT3YydT0/view?usp=sharing)  
+[[Report]](https://drive.google.com/file/d/18gi65-2Ld7hUH-ve7taSpbRTVT3YydT0/view?usp=sharing)  
 - Reduced false positives by 50% through Wazuh ruleset optimization.  
 
 **Simulated Security Audit**  
-[[Code]](https://drive.google.com/file/d/1Y-3p3EQoeQUe9n21IBCGTVCpQ1-bAE80/view?usp=sharing)  
+[[Report]](https://drive.google.com/file/d/1Y-3p3EQoeQUe9n21IBCGTVCpQ1-bAE80/view?usp=sharing)  
 - Identified 35+ vulnerabilities using Nmap/Metasploit, enabling proactive patching.  
 
 ---
