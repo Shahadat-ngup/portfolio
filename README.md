@@ -73,10 +73,5 @@ Instituto Politécnico de Bragança | 2018–2024
 
 ---
 
-![Shahadat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahadat-ngup&show_icons=true&theme=radical)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shahadat-ngup.portfolio)
-
----
-
 > 🚧 *This portfolio is under active development. Stay tuned for more updates and detailed project writeups!*
 
